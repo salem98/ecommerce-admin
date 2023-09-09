@@ -1,0 +1,22 @@
+
+http://localhost:3000/api/5bb34f4b-a01b-4735-8aef-f22d3928b407/billboards
+###
+http://localhost:3000/api/f2c8939b-ae4c-41a5-87ef-d71a5d4bb309/categories
+
+###
+http://localhost:3000/api/6c27c4e7-c9ce-421f-a6d1-06322c2507c6/sizes
+
+###
+http://localhost:3000/api/6c27c4e7-c9ce-421f-a6d1-06322c2507c6/colors
+
+//Get all products
+###
+http://localhost:3000/api/6c27c4e7-c9ce-421f-a6d1-06322c2507c6/products
+
+//Get all products by ?colorid=
+###
+http://localhost:3000/api/6c27c4e7-c9ce-421f-a6d1-06322c2507c6/products?colorid=32593bac-5cb3-4297-a4da-6e2ba6635832
+
+//Get all Featured products
+###
+http://localhost:3000/api/6c27c4e7-c9ce-421f-a6d1-06322c2507c6/products?isfeatured=false
