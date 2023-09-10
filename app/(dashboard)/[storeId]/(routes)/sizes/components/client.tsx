@@ -6,7 +6,7 @@ import { Separator } from "@/components/ui/separator"
 import { Plus } from "lucide-react"
 import { useParams, useRouter } from "next/navigation"
 import { DataTable } from "@/components/ui/data-table"
-import { columns, type SizeColumn } from './columns'
+import { columns, type SizeColumn } from '../components/columns'
 import { ApiList } from "@/components/ui/api-list"
 
 

@@ -1,7 +1,7 @@
 "use client"
 
 
-import { SizeColumn } from "./columns"
+import { SizeColumn } from "../components/columns"
 import { MoreHorizontal } from "lucide-react"
 
 import { Button } from "@/components/ui/button"
@@ -102,5 +102,5 @@ export const CellAction: React.FC<CellActionProps> = ( { data } ) =>
     )
 }
 
-  // ...
+// ...
 

@@ -4,7 +4,7 @@ import { Heading } from "@/components/ui/heading"
 import { Separator } from "@/components/ui/separator"
 import { useParams, useRouter } from "next/navigation"
 import { DataTable } from "@/components/ui/data-table"
-import { columns, type OrderColumn } from './columns'
+import { columns, type OrderColumn } from '../components/columns'
 import { ApiList } from "@/components/ui/api-list"
 
 
